@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "broken-river-e42a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "3b3e4ff6-5aef-4d23-9fed-e677b0a8681d",
+      "database_name": "broken-river-e42a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
